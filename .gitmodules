@@ -1,0 +1,3 @@
+[submodule "online_rental_services"]
+	path = online_rental_services
+	url = git@github.com:milansingla/online_rental_services.git
